@@ -38,7 +38,7 @@ name = generatorIterator.next(`${name} is stunning!`).value;
 name = generatorIterator.next(`${name} is awe-inspiring!`).value;
 const positions = generatorIterator.next(`${name} is magnificent!`).value; 
 positions.join('\n'); 
-console.log(positions.joiht('\n'));
+console.log(positions.join('\n'));
 
 
 
